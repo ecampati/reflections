@@ -12,6 +12,9 @@ waiting to finish changes and commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+I made several changes... I choose a logical change and put the related files
+into the staging area, then check the changes I've made compared the latest
+commit and at this point commit the change.
 
 
 What are some situations when branches would be helpful in keeping your history
