@@ -39,6 +39,9 @@ a branch into another that continue to exist (the branch merged can be deleted).
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+I think that Git's automatic merging is a great help for the developer,
+considering that it leaves to developer the task of solving any conflicts 
+because certain operations are better done by hand ;-)
 
 
 
