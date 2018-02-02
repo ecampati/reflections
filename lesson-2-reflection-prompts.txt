@@ -19,6 +19,10 @@ commit and at this point commit the change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Using branches I can create experimental version of my work whithout affecting
+the main one. 
+At any moment I can go back to main version to, i.e., fix a bug.
+At a later time I can decide to merge experimental version on the main one.
 
 
 How do the diagrams help you visualize the branch structure?
