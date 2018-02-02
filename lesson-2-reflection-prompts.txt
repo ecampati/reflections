@@ -26,6 +26,8 @@ At a later time I can decide to merge experimental version on the main one.
 
 
 How do the diagrams help you visualize the branch structure?
+With a diagram I can figure better the branches structure; this can be very
+useful in case of merging branches...
 
 
 What is the result of merging two branches together? Why do we represent it in
