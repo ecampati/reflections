@@ -32,6 +32,9 @@ useful in case of merging branches...
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result is to have a new commit with the functionalities of the two branches.
+We merge a branch into another and in the diagram we represent it converging
+a branch into another that continue to exist (the branch merged can be deleted).
 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
