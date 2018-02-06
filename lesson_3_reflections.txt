@@ -13,6 +13,16 @@ Push and Pull oprations can not be managed automatically by an application.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
+Forks command works on GitHub environment: it clones an existing repository 
+into your new repository.
+Clone command make a copy of a remote repository to your local environment;
+the copy contains all commmits of remote repository.
+Branch command creates a new commit that inherits all previous commits.
+I can use fork command when I want to clone an existing database on GitHub.
+I can use clone command when I work locally on an existing remote repository.
+I can use branch command when I want to create new feature/make a fix/etc 
+mainteining the current version accessible in any moment. Later it will
+possible to merge changes to the 'master' branch.
 
 
 What is the benefit of having a copy of the last known state of the remote
