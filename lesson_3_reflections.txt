@@ -27,6 +27,9 @@ possible to merge changes to the 'master' branch.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
+The benefit is that you to be able to check your changes with respect to 
+the sources stored on the remote repository even without having an Internet 
+connection and without 'interferences' of someone working on the same repository.
 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
