@@ -34,6 +34,9 @@ connection and without 'interferences' of someone working on the same repository
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
+Git and GitHub make collaboration much easier and more effective, providing 
+the tools to manage the workflow of more people on the same project and 
+to resolve any conflicts. 
 
 
 When would you want to make changes in a separate branch rather than directly in
