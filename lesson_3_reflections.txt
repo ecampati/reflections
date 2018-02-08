@@ -36,9 +36,12 @@ How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 Git and GitHub make collaboration much easier and more effective, providing 
 the tools to manage the workflow of more people on the same project and 
-to resolve any conflicts. 
+to resolve any conflicts.
 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
+In my opinion it is always better to make changes in a separate brach to 
+keep the master branch in a known state; when the new feature, bug fix or the
+other that a separate branch keep, it is 'mature' it is possible to merge to
+master branch.
